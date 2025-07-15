@@ -1,6 +1,6 @@
 # PRT编译输出目录
 # 忽略整个build目录及其所有内容
-prt/build/
+build/
 
 
 # macOS
